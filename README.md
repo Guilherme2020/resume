@@ -21,7 +21,7 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
 
 **Estagiário na área de Suporte técnico**:IFPI *(Setor de tecnologia - DEPTI), 03/2015 - 07/2015*
 
-**Estagiário no  setor  de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015-12/2016*
+**Estagiário no  setor  de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
 
 ## Habilidades E Tecnologias:
 
