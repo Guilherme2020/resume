@@ -62,7 +62,7 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
   - Node
   - JavaScript com TDD(Mocha)
 
-##Educação:
+## Educação:
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 - Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - Cursando
