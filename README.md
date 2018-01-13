@@ -61,6 +61,7 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
   - Kotlin
   - Node
   - JavaScript com TDD(Mocha)
+
 ##Educação:
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
