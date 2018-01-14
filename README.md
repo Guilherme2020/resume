@@ -32,7 +32,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
 **Front-End**:
 
-- HTML5, CSS3(MaterializeCss, Bootstrap), JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery)
+- HTML5, CSS3(MaterializeCss, Bootstrap), JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery), Design Responsivo,SEO.
 - Repositorios referentes ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/vuejs2
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
