@@ -42,8 +42,11 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
   - https://github.com/Guilherme2020/Aula-Tep-Ads-Vue-Material
   - https://github.com/Guilherme2020/vueJs-Firebase
   - https://github.com/Guilherme2020/vue-init-Son
+
 - Artigos escritos para a comunidade Training Center:
+
   - https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c  
+
 **Back-End**:
 
 - PHP(Laravel)
@@ -64,6 +67,7 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
 ----------------------
 
 ## Cursos Relevante:
+
 - Engenharia de Software(Scrum, Kanban), Estrutura de Dados, Conhecimento em Progamação Orientada a objetos, Design Patterns.
 
 ## Interesses e estudos atuais
@@ -79,6 +83,7 @@ com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também es
 
 **Estagiário na área de Suporte técnico**:IFPI *(Setor de tecnologia - DEPTI), 03/2015 - 07/2015*
   - Atendimento a usuários do campus por meio do sistema Helpdesk para resolução de chamados em aberto.
+
 **Estagiário no  setor  de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
   - Desenvolvimento de uma plataforma de certificados para  minicursos e palestras do campus.
   - Manutenção em sistema de refeitorio - Módulo de relatorio para as refeições realizadas por servidores,alunos e visitantes.
