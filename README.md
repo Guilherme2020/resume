@@ -11,7 +11,9 @@ Teresina - PI, Brasil
 [ guilherme2020 - Github](https://github.com/Guilherme2020)
 
 ---------
+
 Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procuro adquirir novas habilidades que agreguem em meu desempenho e produtividade, agregando mais valor ao projeto em equipe.Ser desafiado e me manter atualizado são meus motivadores.
+
 ---------------
 
 ## Educação:
@@ -51,6 +53,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 **Databases**: SQL(Postgres,MySql)
 
 **Linguas**: Português Nativo,Inglês técnico/leitura
+
 ----------------------
 ## Cursos Relevante:
 
