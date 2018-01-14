@@ -12,8 +12,7 @@ Teresina - PI, Brasil
 
 ---------
 
-Sou desenvolvedor **Front-End**  e estou procurando oportunidades para trabalhar nessa aŕea,
-com o foco no uso de tecnologias JavaScript como VueJs, no entanto eu também estou disposto a trabalhar com outras  tecnologias. Eu me considero um aprendiz  que procura sempre adquirir novas habilidades que venham  agregar meus conhecimentos. Sou proativo e esforçado nas tarefas do dia a dia. Gostaria de fazer parte de uma ótima equipe  onde eu poderia aprender e compartilhar meus conhecimentos com o objetivo de evoluir minha carreira na parte profissional e também pessoal, além de crescer no ambiente que estou inserido. Além do conhecimento  como  **Front-End Developer** também possuo compreensão em linguagens **Back-End** como  python/django  e php/laravel.
+Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procuro adquirir novas habilidades que agreguem em meu desempenho e produtividade, agregando mais valor ao projeto em equipe.Ser desafiado e me manter atualizado são meus motivadores.
 
 ---------------
 
