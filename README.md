@@ -11,9 +11,7 @@ Teresina - PI, Brasil
 [ guilherme2020 - Github](https://github.com/Guilherme2020)
 
 ---------
-
 Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procuro adquirir novas habilidades que agreguem em meu desempenho e produtividade, agregando mais valor ao projeto em equipe.Ser desafiado e me manter atualizado são meus motivadores.
-
 ---------------
 
 ## Educação:
@@ -26,15 +24,13 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
 - Curso Técnico em Informática voltado para Programação, 03/2014 - 12/2015 - Concluido
 
-
 ## Habilidades E Tecnologias:
 
 **Linguagens de Progamação**: Java [1 ano +], JavaScript [1 ano], PHP [2 anos +], Python[2 anos +]
 
 **Front-End**:
 
-- JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery)
-- HTML5, CSS3(MaterializeCss, Bootstrap)
+- HTML5, CSS3(MaterializeCss, Bootstrap),JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery)
 - Repositorios referentes ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/vuejs2
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
@@ -48,8 +44,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
 **Back-End**:
 
-- PHP(Laravel)
-- Python(Django)
+- PHP(Laravel),Python(Django)
 
 **Mobile**:
 
@@ -61,23 +56,15 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 **Databases**: SQL(Postgres,MySql)
 
 **Linguas**
-- Português Nativo
-- Inglês técnico/leitura
-
+- Português Nativo,Inglês técnico/leitura
 ----------------------
-
 ## Cursos Relevante:
 
 - Engenharia de Software(Scrum, Kanban), Estrutura de Dados, Conhecimento em Progamação Orientada a objetos, Design Patterns.
 
 ## Interesses e estudos atuais
 
-  - Inglês - Em aprendizado
-  - SASS/LESS
-  - GULP
-  - Kotlin
-  - Node
-  - JavaScript com TDD(Mocha)
+  - Inglês(Em aprendizado),SASS/LESS,GULP,Kotlin,Node,JavaScript com TDD(Mocha)
 
 ## Experiência:
 
