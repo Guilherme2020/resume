@@ -30,7 +30,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
 **Front-End**:
 
-- HTML5, CSS3(MaterializeCss, Bootstrap),JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery)
+- HTML5, CSS3(MaterializeCss, Bootstrap), JavaScript/ES6(AngularJs-1.5, VueJs-2.X, Jquery)
 - Repositorios referentes ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/vuejs2
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
@@ -42,21 +42,15 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
   - https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c  
 
-**Back-End**:
+**Back-End**: PHP(Laravel), Python(Django)
 
-- PHP(Laravel),Python(Django)
+**Mobile**: Java(Android)
 
-**Mobile**:
-
-- Java(Android)
-
-**Controle de Versionamento**:
-- GIT
+**Controle de Versionamento**: GIT
 
 **Databases**: SQL(Postgres,MySql)
 
-**Linguas**
-- Português Nativo,Inglês técnico/leitura
+**Linguas**: Português Nativo,Inglês técnico/leitura
 ----------------------
 ## Cursos Relevante:
 
