@@ -63,6 +63,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 **Linguas**
 - Português Nativo
 - Inglês técnico/leitura
+
 ----------------------
 
 ## Cursos Relevante:
