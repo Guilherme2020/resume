@@ -1,4 +1,4 @@
-# Front-End Developer
+# Software Developer
 
 ## Guilherme Rodrigues Simeão
 
@@ -10,9 +10,12 @@ Teresina - PI, Brasil
 
 [ guilherme2020 - Github](https://github.com/Guilherme2020)
 
+[contato - 8698248770]()
+
 ---------
 
-Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procuro adquirir novas habilidades que agreguem em meu desempenho e produtividade, agregando mais valor ao projeto em equipe.Ser desafiado e me manter atualizado são meus motivadores.
+Acadêmico Em Análise e Desenvolvimento de Sistemas.
+Sou  **Desenvolvedor de Software**  e atualmente estou buscando colocação na área. Procuro adquirir novas habilidades que venha melhorar o  meu desempenho e produtividade, agregando mais valor ao projeto em equipe. Ser desafiado e me manter  em constante aprendizado  são meus motivadores.
 
 ---------------
 
@@ -42,7 +45,7 @@ Sou desenvolvedor **Front-End**  e atualmente procuro colocação na área.Procu
 
 - Artigos escritos para a comunidade Training Center:
 
-  - https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c  
+  - https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c
 
 **Back-End**: PHP(Laravel), Python(Django)
 
