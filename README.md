@@ -73,4 +73,4 @@ Sou  **Desenvolvedor de Software**  e atualmente estou buscando colocação na �
 
 **Estagiário no  setor  de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
   - Desenvolvimento de uma plataforma de certificados para  minicursos e palestras do campus.
-  - Manutenção em sistema de refeitorio - Módulo de relatorio para as refeições realizadas por servidores,alunos e visitantes.
+  - Manutenção em sistema de refeitório - Módulo de relatório para as refeições realizadas por servidores,alunos e visitantes.
