@@ -10,6 +10,8 @@ Teresina - PI, Brasil
 
 [ guilherme2020 - Github](https://github.com/Guilherme2020)
 
+[Linkedin](https://www.linkedin.com/in/guilherme-rodrigues-1b9ab0109/)
+
 [contato - 8698248770]
 
 ---------
