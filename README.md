@@ -10,7 +10,7 @@ Teresina - PI, Brasil
 
 [ guilherme2020 - Github](https://github.com/Guilherme2020)
 
-[guilherme-rodrigues - Linkedin]
+[guilherme-rodrigues - Linkedin](https://www.linkedin.com/in/guilherme-rodrigues-1b9ab0109/)
 
 [contato - 8698248770]
 
@@ -24,15 +24,15 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - Cursando
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - 12/2019
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 
-- Curso Técnico em Informática voltado para Programação, 03/2014 - 12/2015
+- Curso Técnico em Informática voltado a Programação, 03/2014 - 12/2015
 
 ## Habilidades e Tecnologias:
 
-**Linguagens de Progamação**: JavaScript [3 anos+],NodeJs[1 ano +] ,Java [1 ano ],PHP [1 ano ], Python[2 anos]
+**Linguagens de Progamação**: JavaScript [3 anos+],NodeJs[1 ano +] ,PHP [1 ano] 
 
 **Front-End**:
 - HTML5,
@@ -47,10 +47,9 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
   - https://github.com/Guilherme2020/UberEat-Clone
   - https://github.com/Guilherme2020/UberClone-React-Native
   - https://github.com/Guilherme2020/learning-react-redux
-  - https://github.com/Guilherme2020/reactjs-comments
+  - https://github.com/Guilherme2020/DevRadar
 - Repositorios referente ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
-  - https://github.com/Guilherme2020/Aula-Tep-Ads-Vue-Material
   - https://github.com/Guilherme2020/PeladasApp
   - https://github.com/Guilherme2020/OneSpot
 
@@ -80,6 +79,7 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
   - Desenvolvimento de interfaces usando ReactJs
   - Integração com Api Rest.
   - Manutenção em um Aplicativo Multiplataforma usando React Native
+  
 **Desenvolvedor Mobile**:IdeiasTi *03/2019 - 11/2019*
   - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geocalização e deploy para as lojas(Play Store, App Store))
 
@@ -90,6 +90,3 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 **Estagiário no setor de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
   - Desenvolvimento de uma plataforma de certificados para  minicursos e palestras do campus usando PHP/Laravel.
   - Manutenção em sistema de refeitório - Módulo de relatório para as refeições realizadas por servidores,alunos e visitantes usando PHP/Yii2.
-
-**Estagiário na área de Suporte técnico**:IFPI *(Setor de tecnologia - DEPTI), 03/2015 - 07/2015*
-  - Atendimento a usuários do campus por meio do sistema Helpdesk para resolução de chamados em aberto.
