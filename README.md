@@ -16,7 +16,7 @@ Teresina - PI, Brasil
 
 ---------
 
-Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontEnd**, procuro adquirir novas habilidades que venha melhorar o meu desempenho e produtividade, agregando mais valor ao projeto em equipe. Ser desafiado e me manter em constante aprendizado são meus motivadores.
+Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontEnd/Mobile**, procuro adquirir novas habilidades que venha melhorar o meu desempenho e produtividade, agregando mais valor ao projeto em equipe. Ser desafiado e me manter em constante aprendizado são meus motivadores.
 
 ---------------
 
@@ -24,7 +24,7 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - 12/2019
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - em andamento
 
 **Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 
@@ -78,10 +78,10 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 **Desenvolvedor Front-End**:Editora CEV *12/2019 - 02/2020*
   - Desenvolvimento de interfaces usando ReactJs
   - Integração com Api Rest.
-  - Manutenção em um Aplicativo Multiplataforma usando React Native
+  - Manutenção em um Aplicativo Multiplataforma usando React Native.
   
 **Desenvolvedor Mobile**:IdeiasTi *03/2019 - 11/2019*
-  - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geocalização e deploy para as lojas(Play Store, App Store))
+  - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geolocalização e deploy para as lojas(Play Store, App Store))
 
 **Estagiário em Desenvolvimento de Aplicativos Móveis**:Infoway *05/2018 - 02/2019*
   -	Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para pedidos de lanches pelos funcionários da empresa usando React Native e integração com API Rest.
