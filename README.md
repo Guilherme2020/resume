@@ -20,16 +20,24 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 
 ---------------
 
-## Educação:
+## Experiência:
 
-**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
+**Desenvolvedor Front-End**:Editora CEV *12/2019 - 02/2020*
+  - Desenvolvimento de interfaces usando ReactJs
+  - Integração com Api Rest.
+  - Manutenção em um Aplicativo Multiplataforma usando React Native.
+  
+**Desenvolvedor Mobile**:IdeiasTi *03/2019 - 11/2019*
+  - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geolocalização e deploy para as lojas(Play Store, App Store))
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - em andamento
+**Estagiário em Desenvolvimento de Aplicativos Móveis**:Infoway *05/2018 - 02/2019*
+  -	Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para pedidos de lanches pelos funcionários da empresa usando React Native e integração com API Rest.
+  - Manutenção em um Aplicativo Multiplataforma(Android/IOS) para beneficiários dos planos de saúde que a empresa gerencia usando React Native, integração com API Rest, biblioteca para gerenciamento de estados(Redux Thunk) e  integração com mapas.
 
-**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
-
-- Curso Técnico em Informática voltado a Programação, 03/2014 - 12/2015
-
+**Estagiário no setor de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
+  - Desenvolvimento de uma plataforma de certificados para  minicursos e palestras do campus usando PHP/Laravel.
+  - Manutenção em sistema de refeitório - Módulo de relatório para as refeições realizadas por servidores,alunos e visitantes usando PHP/Yii2.
+  
 ## Habilidades e Tecnologias:
 
 **Linguagens de Progamação**: JavaScript [3 anos+],NodeJs[1 ano +] ,PHP [1 ano] 
@@ -73,20 +81,14 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 
   - Inglês,NodeJs/AdonisJs,Graphql/ApolloClient,Testes em JavaScript com TDD, Redux Sagas, design patterns, CI/CD, Storybook, construção de PWA com reactjs.
 
-## Experiência:
+## Educação:
 
-**Desenvolvedor Front-End**:Editora CEV *12/2019 - 02/2020*
-  - Desenvolvimento de interfaces usando ReactJs
-  - Integração com Api Rest.
-  - Manutenção em um Aplicativo Multiplataforma usando React Native.
-  
-**Desenvolvedor Mobile**:IdeiasTi *03/2019 - 11/2019*
-  - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geolocalização e deploy para as lojas(Play Store, App Store))
+**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
 
-**Estagiário em Desenvolvimento de Aplicativos Móveis**:Infoway *05/2018 - 02/2019*
-  -	Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para pedidos de lanches pelos funcionários da empresa usando React Native e integração com API Rest.
-  - Manutenção em um Aplicativo Multiplataforma(Android/IOS) para beneficiários dos planos de saúde que a empresa gerencia usando React Native, integração com API Rest, biblioteca para gerenciamento de estados(Redux Thunk) e  integração com mapas.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - em andamento
 
-**Estagiário no setor de Desenvolvimento de Software**:IFPI *(Setor de tecnologia - DEPTI), 08/2015 - 12/2016*
-  - Desenvolvimento de uma plataforma de certificados para  minicursos e palestras do campus usando PHP/Laravel.
-  - Manutenção em sistema de refeitório - Módulo de relatório para as refeições realizadas por servidores,alunos e visitantes usando PHP/Yii2.
+**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
+
+- Curso Técnico em Informática voltado a Programação, 03/2014 - 12/2015
+
+
