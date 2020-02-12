@@ -23,9 +23,11 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 ## Experiência:
 
 **Desenvolvedor Front-End**:Editora CEV *12/2019 - 02/2020*
-  - Desenvolvimento de interfaces usando ReactJs
-  - Integração com Api Rest.
-  - Manutenção em um Aplicativo Multiplataforma usando React Native.
+  - Desenvolvimento de interfaces usando ReactJs;
+  - Desenvolvimento de uma dashboard usando ReactJS(hooks, adoção da lib antdesign);
+  - Integração com Api Rest;
+  - Manutenção em um Aplicativo Multiplataforma; usando React Native( typescript, realm );
+  - Deploy para play store;
   
 **Desenvolvedor Mobile**:IdeiasTi *03/2019 - 11/2019*
   - Desenvolvimento de um  Aplicativo  Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native, integração com API Rest, biblioteca para gerenciamento de estados, integração com os serviços do firebase, integração com mapas, geolocalização e deploy para as lojas(Play Store, App Store))
