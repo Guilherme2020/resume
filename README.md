@@ -47,9 +47,9 @@ Acadêmico em Análise e Desenvolvimento de Sistemas. Sou **Desenvolvedor FrontE
 - JavaScript/ES6: Reactjs(Redux, Styled Components, react-router-dom), VueJs(Vuex, Vuetify), Jquery, consumo de API Rest com axios e fetch.
 - Repositorios referente ao desenvolvimento JavaScript com React/React Native.
  
-  - https://github.com/Guilherme2020/instaRocketFrontEnd
+  - https://github.com/Guilherme2020/restaurant-app
   - https://github.com/Guilherme2020/aircnc
-  - https://github.com/Guilherme2020/UberEat-Clone
+  - https://github.com/Guilherme2020/spotify-react-native
   - https://github.com/Guilherme2020/DevRadar
 - Repositorios referente ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
