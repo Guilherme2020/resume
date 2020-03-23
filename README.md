@@ -68,11 +68,6 @@ Sou **Desenvolvedor FrontEnd/Mobile**. Meu objetivo é adquirir novas habilidade
 - Repositorios referente ao desenvolvimento JavaScript com Vuejs:
   - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
   - https://github.com/Guilherme2020/PeladasApp
-- Artigo escritos para a comunidade Training Center: - https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c
-
-- Repositorios referente ao desenvolvimento mobile com Flutter.
-  - https://github.com/Guilherme2020/TodoApp-Flutter
-  - https://github.com/Guilherme2020/dog-life
 
 **Mobile**
 
