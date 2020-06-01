@@ -2,7 +2,7 @@
 
 ## Guilherme Rodrigues Simeão
 
-Teresina - PI, Brasil
+Teresina - PI, Brazil
 
 [ grodrigues.simeao@gmail.com](mailto:grodrigues.simeao@gmail.com)
 
@@ -12,92 +12,94 @@ Teresina - PI, Brasil
 
 [guilherme-rodrigues - Linkedin](https://www.linkedin.com/in/guilherme-rodrigues-1b9ab0109/)
 
-[contato - 8698248770]
+[contact - 558698248770]
 
 ---
 
-Sou **Desenvolvedor FrontEnd/Mobile**. Meu objetivo é adquirir novas habilidades que venha melhorar o meu desempenho e produtividade, de forma que eu possa crescer como pessoa e como profissional, agregando mais valor ao projeto em equipe. Ser desafiado e me manter em constante aprendizado são meus motivadores.
+I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will improve my performance and productivity, so that I can grow as a person and as a professional, adding more value to the team project. Being challenged and keeping myself constantly learning are my motivators.
 
 ---
 
-## Experiência:
+## Experience:
 
-**Desenvolvedor Front-End**:Editora CEV _12/2019 - 02/2020_
+**Front-End Developer**: Sthorm _03/2020 - a moment_
 
-- Desenvolvimento de interfaces usando ReactJs;
-- Desenvolvimento de uma dashboard usando ReactJS(hooks, adoção da lib antdesign);
-- Integração com Api Rest;
-- Manutenção em um Aplicativo Multiplataforma; usando React Native( typescript, realm ),Deploy para play store.
+- Project development and maintenance of project Viralcure(http://viralcure.co/), a crowdfunding to help the hospital of sp clinics.
+- Interface development using Angular9, Bootstrap, SSR, ng/rx.
+- Creating and Maintenance CMS using Angular9, CoreUI.
+- Integration with Api Rest.
+- payment method integration
+- GitFlow.
+- Use of agile methodology
+- Maintenance in BackEnd using NestJS.
 
-**Desenvolvedor Mobile**:IdeiasTi _03/2019 - 11/2019_
+**Front-End Developer**: Publishing company CEV _12/2019 - 02/2020_
 
-- Uso da metodologia ágil Kanban.
-- Desenvolvimento de um Aplicativo Multiplataforma(Android/IOS) para a construção de uma imobiliária virtual usando React Native.
-- integração com API Rest.
-- biblioteca para gerenciamento de estados
-- integração com os serviços do firebase,
-- integração com mapas e geolocalização
-- deploy para as lojas(Play Store, App Store))
+- Interface development using ReactJs;
+- Development of a dashboard using ReactJS (hooks, adoption of lib antdesign);
+- Integration with Api Rest;
+- Maintenance in a Multiplatform Application; using React Native (typescript, realm),
+- Deploy to play store.
 
-**Estagiário em Desenvolvimento de Aplicativos Móveis**:Infoway _05/2018 - 02/2019_
+**Mobile Developer**: IdeasTi _03/2019 - 11/2019_
 
-- Uso da metodologia ágil SCRUM.
-- Desenvolvimento de um Aplicativo Multiplataforma(Android/IOS) para pedidos de lanches pelos funcionários da empresa usando React Native e integração com API Rest.
-- Manutenção em um Aplicativo Multiplataforma(Android/IOS) para beneficiários dos planos de saúde que a empresa gerencia usando React Native, integração com API Rest, biblioteca para gerenciamento de estados(Redux Thunk) e integração com mapas.
+- Use of Kanban agile methodology.
+- Development of a Multiplatform Application (Android / IOS) for the construction of a virtual real estate using React Native.
+- integration with Rest API.
+- state management library
+- integration with firebase services,
+- integration with maps and geolocation
+- deploy to stores (Play Store, App Store))
 
-**Estagiário no setor de Desenvolvimento de Software**:IFPI _08/2015 - 12/2016_
+**Mobile Application Development Intern**: Infoway _05/2018 - 02/2019_
 
-- Desenvolvimento de uma plataforma de certificados para minicursos e palestras do campus usando PHP/Laravel.
-- Manutenção em sistema de refeitório - Módulo de relatório para as refeições realizadas por servidores,alunos e visitantes usando PHP/Yii2.
+- Use of the SCRUM agile methodology.
+- Development of a Multiplatform Application (Android / IOS) for ordering snacks by company employees using React Native and integration with Rest API.
+- Maintenance in a Multiplatform Application (Android / IOS) for beneficiaries of the health plans that the company manages using React Native, integration with API Rest, library for state management (Redux Thunk) and integration with maps.
+
+**Software Development Intern**:IFPI _08/2015 - 12/2016_
+
+- Development of a certificate platform for short courses and lectures on campus using PHP / Laravel.
+- Cafeteria system maintenance - Report module for meals made by servers, students and visitors using PHP / Yii2.
 
 ## Habilidades e Tecnologias:
 
-**Linguagens de Progamação**: JavaScript [3 anos+],NodeJs[1 ano +], Dart/Flutter [ ~ 1 ano]
+**Programming Languages**: JavaScript [3 anos+],NodeJs[1 ano +], Dart/Flutter [ ~ 1 ano]
 
 **Front-End**:
 
-- HTML5, CSS3: MaterializeCss,Bootstrap,Bulma, Sass, FlexBox, Grid Layout, Design Responsivo, SEO.
-- JavaScript/ES6: Reactjs(Redux, Styled Components, Teste unitários com enzyme e jest, Continuous Integration and Deployment com Codeship), VueJs(Vuex, Vuetify), Jquery.
-- Repositorios referente ao desenvolvimento JavaScript com React/React Native.
-
-  - https://github.com/Guilherme2020/restaurant-app
-  - https://github.com/Guilherme2020/aircnc
-  - https://github.com/Guilherme2020/spotify-react-native
-  - https://github.com/Guilherme2020/DevRadar
-
-- Repositorios referente ao desenvolvimento JavaScript com Vuejs:
-  - https://github.com/Guilherme2020/Desenvolvimento-Front-End/tree/master/iniciando-vue-Guia-Codigo/netflixVue
-  - https://github.com/Guilherme2020/PeladasApp
+- HTML5, CSS3: MaterializeCss,Bootstrap,Bulma, Sass, FlexBox, Grid Layout, Design Responsive, SEO.
+- JavaScript/ES6: Reactjs(Redux, Styled Components, Unit tests with enzyme and jest, Continuous Integration and Deployment com Codeship), VueJs(Vuex, Vuetify), Jquery.
 
 **Mobile**
 
-- React Native: Comunicação com Api-Rest,uso de bibliotecas para construção de UI, uso de styled components, uso de biblioteca para gerenciamento de estado(Redux/Redux Thunk), integração com os serviços do firebase(Firebase Database e Firebase Cloud Messaging para push notifications),integração com biblioteca de mapas e geolocalização, deploy de aplicativos(Play Store, Apple Store).
+- React Native: Communication with Api-Rest, use of libraries for building UI, use of styled components, use of library for state management (Redux / Redux Thunk), integration with firebase services (Firebase Database and Firebase Cloud Messaging for push notifications), integration with map library and geolocation, application deployment (Play Store, Apple Store).
 
-- Flutter: intergração com Api-Rest.
+- Flutter: integration with Api-Rest.
 
-**Back-End**: Node(ExpressJs: Upload de imagens, integração com MongoDB usando mongoose, uso de SocketIO),PHP(Laravel)
+**Back-End**: Node (ExpressJs: Image upload, MongoDB integration using mongoose, use of SocketIO)
 
 **Controle de Versionamento**: GIT
 
 **Databases**: SQL(Postgres,MySql),NoSql(MongoDB).
 
-**Linguas**: Português Nativo,Inglês técnico/leitura
+**Languages**: Native Portuguese, Technical English / Reading
 
-**Metodologias ágeis**: SCRUM, Kanban.
+**Metodologias ágeis**: SCRUM, Kanban, Agile.
 
 ---
 
-## Interesses e estudos atuais
+## Current interests and studies
 
-- Inglês,NodeJs/AdonisJs,Graphql/ApolloClient,Testes em JavaScript com TDD, Redux Sagas, design patterns, Storybook, construção de PWA com reactjs.
-- Flutter - testes, gerência de estado(Bloc, Mobx).
+- English, NodeJs / AdonisJs, Graphql / ApolloClient, JavaScript tests with TDD, Redux Sagas, design patterns, Storybook, PWA construction with reactjs.
+- Flutter - tests, state management (Bloc, Mobx).
 
-## Educação:
+## Education:
 
-**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
+**Federal Institute of Technology of Piauí, Teresina - PI, Brazil**
 
-- Tecnólogo em Análise e Desenvolvimento de Sistemas, 03/2015 - em andamento(previsão - julho/2020)
+- Technologist in Systems Analysis and Development, 03/2015 - in progress (forecast - July / 2020)
 
-**Instituto Federal de Tecnologia do Piauí, Teresina - PI, Brasil**
+**Federal Institute of Technology of Piauí, Teresina - PI, Brazil**
 
-- Curso Técnico em Informática voltado a Programação, 03/2014 - 12/2015
+- Computer Technician Course focused on Programming, 03/2014 - 12/2015
