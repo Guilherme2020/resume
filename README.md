@@ -30,6 +30,7 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 - Integration with Api Rest.
 - payment method integration
 - GitFlow.
+- Tests e2e using Cypress.
 - Use of agile methodology
 - Maintenance in BackEnd using NestJS.
 
@@ -38,18 +39,18 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 - Interface development using ReactJs;
 - Development of a dashboard using ReactJS (hooks, adoption of lib antdesign);
 - Integration with Api Rest;
-- Maintenance in a Multiplatform Application; using React Native (typescript, realm),
-- Deploy to play store.
+- Maintenance in a Multiplatform Application virtual book app for students using React Native (typescript, realm, integration api rest),
+- Deploy to play store and apple store.
 
 **Mobile Developer**: IdeasTi _03/2019 - 11/2019_
 
 - Use of Kanban agile methodology.
 - Development of a Multiplatform Application (Android / IOS) for the construction of a virtual real estate using React Native.
 - integration with Rest API.
-- state management library
-- integration with firebase services,
-- integration with maps and geolocation
-- deploy to stores (Play Store, App Store))
+- state management library.
+- integration with firebase services.
+- integration with maps and geolocation.
+- Deploy to play store and app store.
 
 **Mobile Application Development Intern**: Infoway _05/2018 - 02/2019_
 
@@ -64,12 +65,13 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 
 ## Habilidades e Tecnologias:
 
-**Programming Languages**: JavaScript [3 anos+],NodeJs[1 ano +], Dart/Flutter [ ~ 1 ano]
+**Programming Languages**: JavaScript [4 anos+],NodeJs[2 ano +], Dart/Flutter [ ~ 1 ano]
 
 **Front-End**:
 
 - HTML5, CSS3: MaterializeCss,Bootstrap,Bulma, Sass, FlexBox, Grid Layout, Design Responsive, SEO.
-- JavaScript/ES6: Reactjs(Redux, Styled Components, Unit tests with enzyme and jest, Continuous Integration and Deployment com Codeship), VueJs(Vuex, Vuetify), Jquery.
+- JavaScript/ES6: Reactjs(Redux, Styled Components, Unit tests with enzyme and jest, Continuous Integration and Deployment com Codeship), 
+VueJs(Vuex, Vuetify), Angular(NgRx, Test e2e).
 
 **Mobile**
 
@@ -77,7 +79,7 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 
 - Flutter: integration with Api-Rest.
 
-**Back-End**: Node (ExpressJs: Image upload, MongoDB integration using mongoose, use of SocketIO)
+**Back-End**: Node (ExpressJs: Image upload, MongoDB integration using mongoose, use of SocketIO. NestJs: TypeOrm, Docker)
 
 **Controle de Versionamento**: GIT
 
