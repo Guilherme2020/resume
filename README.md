@@ -22,7 +22,15 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 
 ## Experience:
 
-**Front-End Developer**: Sthorm _03/2020 - a moment_
+**Mobile Developer**: Banco ABC Brasil _10/2020 - a moment_
+
+I worked together with a team on the Investment Funds project. Within this mobile development team, we use React Native to create a new product respecting the ui / ux transmitted by the product design team. I also work on the pix project, creating new features for the product, implementing new features in the design system lib, creating and maintaining unit tests.
+
+Using Technologies:
+- React Native, Hooks, Axios, Typescript, Redux, Redux-sagas, React-native-extended-stylesheet, React-native-testing-library, Jest, Scrum,Azure Devops,Integration with AppsFlyer, Integration with native modules(Kotlin,Swift).
+
+
+**Front-End Developer**: Sthorm _03/2020 - 10/2020_
 
 - Project development and maintenance of project Viralcure(http://viralcure.co/), a crowdfunding to help the hospital of sp clinics.
 - Interface development using Angular9, Bootstrap, SSR, ng/rx.
@@ -32,7 +40,7 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 - GitFlow.
 - Tests e2e using Cypress.
 - Use of agile methodology
-- Maintenance in BackEnd using NestJS.
+- Maintenance in BackEnd using NestJS/TypeORM,Docker.
 
 **Front-End Developer**: Publishing company CEV _12/2019 - 02/2020_
 
@@ -75,7 +83,7 @@ VueJs(Vuex, Vuetify), Angular(NgRx, Test e2e).
 
 **Mobile**
 
-- React Native: Communication with Api-Rest, use of libraries for building UI, use of styled components, use of library for state management (Redux / Redux Thunk), integration with firebase services (Firebase Database and Firebase Cloud Messaging for push notifications), integration with map library and geolocation, application deployment (Play Store, Apple Store).
+- React Native: Communication with Api-Rest, use of libraries for building UI, use of styled components, use of library for state management (Redux/Redux Sagas, Redux Thunk), integration with firebase services (Firebase Database and Firebase Cloud Messaging for push notifications), Use lib React-native-testing-library for Tests, Integration with map library and geolocation, application deployment (Play Store, Apple Store).
 
 - Flutter: integration with Api-Rest.
 
