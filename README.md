@@ -24,7 +24,8 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 
 **Mobile Developer**: Banco ABC Brasil _10/2020 - a moment_
 
-I worked together with a team on the Investment Funds project. Within this mobile development team, we use React Native to create a new product respecting the ui / ux transmitted by the product design team. I also work on the pix project, creating new features for the product, implementing new features in the design system lib, creating and maintaining unit tests.
+I worked together with a team on the Investment Funds project. Within this mobile development team, we use React Native to create a new product respecting the ui / ux transmitted by the product design team. In addition to guiding the technical part, I guided the mobile team in organizing tasks, creating new modules, and implementing the project in a production environment. I also worked on the pix project, creating new features for the product, implementing new features in the design system library, creating and maintaining unit tests. I recently participated in the creation of the dda product (automated direct debit) next to a squad we used in the new project
+React Native to create a new product respecting the ui / ux transmitted by the product design team. In addition to assisting in the technical part, I guided the team in making decisions regarding features of the new product with the business team, I made alignments in the planning and implementation of the product.
 
 Using Technologies:
 - React Native, Hooks, Axios, Typescript, Redux, Redux-sagas, React-native-extended-stylesheet, React-native-testing-library, Jest, Scrum,Azure Devops,Integration with AppsFlyer, Integration with native modules(Kotlin,Swift).
