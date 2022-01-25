@@ -31,18 +31,6 @@ Improvements: I work on fixing features in production and rebuilding new modules
 Using Technologies:
 React Native, Context Api, Redux, Typescript, Axios, Styled Component, Enzyme, Jest, Yup, Formik, Push Notification, AppsFlyer, Code Push, Sentry, NewRelic, Graphql
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-<br />
-
 **Mobile Developer**: Banco ABC Brasil _10/2020 - 08/2021_
 
 Funds Project: I worked together with a team on the Investment Funds project. Within this mobile development team, we use React Native to create a new product respecting the ui / ux transmitted by the product design team. In addition to guiding the technical part, I guided the mobile team in organizing tasks, creating new modules, and implementing the project in a production environment.
@@ -76,10 +64,6 @@ Using Technologies:
 - Maintenance in a Multiplatform Application virtual book app for students using React Native (typescript, realm, integration api rest),
 - Deploy to play store and apple store.
 
-<br />
-<br />
-<br />
-<br />
 
 **Mobile Developer**: IdeasTi _03/2019 - 11/2019_
 
