@@ -20,7 +20,7 @@ I'm **FrontEnd/Mobile Developer**. My goal is to acquire new skills that will im
 
 ## Experience:
 
-**Mobile Specialist|React Native**: Grupo Boticário _08/2021 - a moment_
+**Mobile Specialist | React Native**: Grupo Boticário _08/2021 - a moment_
 
 Clube Viva: In Grupo Boticario, together with the consumer app squad, we built the club viva product. Clube Viva is a relationship platform developed for users who want to relate to the brand, enabling the redemption of points and eventual discounts on O Boticário products. We created this product following the ux/ui proposed by the responsible team, migrating the whole new module to typescript, creating unit tests for the proposed components.
 
@@ -30,6 +30,8 @@ Improvements: I work on fixing features in production and rebuilding new modules
 
 Using Technologies:
 React Native, Context Api, Redux, Typescript, Axios, Styled Component, Enzyme, Jest, Yup, Formik, Push Notification, AppsFlyer, Code Push, Sentry, NewRelic, Graphql
+
+
 
 **Mobile Developer**: Banco ABC Brasil _10/2020 - 08/2021_
 
@@ -44,6 +46,8 @@ improvements: I worked on improvements in features implemented in kotlin and swi
 Using Technologies:
 - React Native, Hooks, Axios, Typescript, Redux, Redux-saga, React-native-extended-stylesheet, React-native-testing-library,Design System Library, Jest, Scrum,Azure Devops,Integration with AppsFlyer, Integration with native modules(Kotlin,Swift).
 
+
+
 **Front-End Developer**: Sthorm _03/2020 - 10/2020_
 
 - Project development and maintenance of project Viralcure(http://viralcure.co/), a crowdfunding to help the hospital of sp clinics.
@@ -55,6 +59,7 @@ Using Technologies:
 - Tests e2e using Cypress.
 - Use of agile methodology
 - Maintenance in BackEnd using NestJS/TypeORM,Docker.
+
 
 **Front-End Developer**: Publishing company CEV _12/2019 - 02/2020_
 
